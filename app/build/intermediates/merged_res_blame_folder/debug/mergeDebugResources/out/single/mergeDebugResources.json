@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "C:\\Users\\Super PC\\.gradle\\jdks\\daemon\\8.4\\com.example.coletalixo.app-debug-32:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Super PC\\.gradle\\jdks\\daemon\\8.4\\com.example.coletalixo.app-main-34:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.coletalixo.app-debug-32:/layout_activity_main.xml.flat",
+        "source": "com.example.coletalixo.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Super PC\\.gradle\\jdks\\daemon\\8.4\\com.example.coletalixo.app-debug-32:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Super PC\\.gradle\\jdks\\daemon\\8.4\\com.example.coletalixo.app-main-34:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Super PC\\.gradle\\jdks\\daemon\\8.4\\com.example.coletalixo.app-debug-32:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Super PC\\.gradle\\jdks\\daemon\\8.4\\com.example.coletalixo.app-main-34:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Super PC\\.gradle\\jdks\\daemon\\8.4\\com.example.coletalixo.app-debug-32:\\layout_item_trash.xml.flat",
+        "source": "C:\\Users\\Super PC\\.gradle\\jdks\\daemon\\8.4\\com.example.coletalixo.app-main-34:\\layout\\item_trash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Super PC\\.gradle\\jdks\\daemon\\8.4\\com.example.coletalixo.app-debug-32:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Super PC\\.gradle\\jdks\\daemon\\8.4\\com.example.coletalixo.app-main-34:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Super PC\\.gradle\\jdks\\daemon\\8.4\\com.example.coletalixo.app-debug-32:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Super PC\\.gradle\\jdks\\daemon\\8.4\\com.example.coletalixo.app-main-34:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Super PC\\.gradle\\jdks\\daemon\\8.4\\com.example.coletalixo.app-debug-32:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Super PC\\.gradle\\jdks\\daemon\\8.4\\com.example.coletalixo.app-main-34:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Super PC\\.gradle\\jdks\\daemon\\8.4\\com.example.coletalixo.app-debug-32:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Super PC\\.gradle\\jdks\\daemon\\8.4\\com.example.coletalixo.app-main-34:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Super PC\\.gradle\\jdks\\daemon\\8.4\\com.example.coletalixo.app-debug-32:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Super PC\\.gradle\\jdks\\daemon\\8.4\\com.example.coletalixo.app-main-34:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Super PC\\.gradle\\jdks\\daemon\\8.4\\com.example.coletalixo.app-debug-32:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Super PC\\.gradle\\jdks\\daemon\\8.4\\com.example.coletalixo.app-main-34:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Super PC\\.gradle\\jdks\\daemon\\8.4\\com.example.coletalixo.app-debug-32:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Super PC\\.gradle\\jdks\\daemon\\8.4\\com.example.coletalixo.app-main-34:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Super PC\\.gradle\\jdks\\daemon\\8.4\\com.example.coletalixo.app-debug-32:\\drawable_bg_recycle.jpg.flat",
+        "source": "C:\\Users\\Super PC\\.gradle\\jdks\\daemon\\8.4\\com.example.coletalixo.app-main-34:\\drawable\\bg_recycle.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Super PC\\.gradle\\jdks\\daemon\\8.4\\com.example.coletalixo.app-debug-32:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Super PC\\.gradle\\jdks\\daemon\\8.4\\com.example.coletalixo.app-main-34:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Super PC\\.gradle\\jdks\\daemon\\8.4\\com.example.coletalixo.app-debug-32:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Super PC\\.gradle\\jdks\\daemon\\8.4\\com.example.coletalixo.app-main-34:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Super PC\\.gradle\\jdks\\daemon\\8.4\\com.example.coletalixo.app-debug-32:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Super PC\\.gradle\\jdks\\daemon\\8.4\\com.example.coletalixo.app-main-34:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Super PC\\.gradle\\jdks\\daemon\\8.4\\com.example.coletalixo.app-debug-32:\\drawable_camera_app_coleta_lixo.png.flat",
+        "source": "C:\\Users\\Super PC\\.gradle\\jdks\\daemon\\8.4\\com.example.coletalixo.app-main-34:\\drawable\\camera_app_coleta_lixo.png"
+    },
+    {
+        "merged": "C:\\Users\\Super PC\\.gradle\\jdks\\daemon\\8.4\\com.example.coletalixo.app-debug-32:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Super PC\\.gradle\\jdks\\daemon\\8.4\\com.example.coletalixo.app-main-34:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Super PC\\.gradle\\jdks\\daemon\\8.4\\com.example.coletalixo.app-debug-32:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Super PC\\.gradle\\jdks\\daemon\\8.4\\com.example.coletalixo.app-main-34:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Super PC\\.gradle\\jdks\\daemon\\8.4\\com.example.coletalixo.app-debug-32:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Super PC\\.gradle\\jdks\\daemon\\8.4\\com.example.coletalixo.app-main-34:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Super PC\\.gradle\\jdks\\daemon\\8.4\\com.example.coletalixo.app-debug-32:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Super PC\\.gradle\\jdks\\daemon\\8.4\\com.example.coletalixo.app-main-34:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Super PC\\.gradle\\jdks\\daemon\\8.4\\com.example.coletalixo.app-debug-32:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Super PC\\.gradle\\jdks\\daemon\\8.4\\com.example.coletalixo.app-main-34:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Super PC\\.gradle\\jdks\\daemon\\8.4\\com.example.coletalixo.app-debug-32:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Super PC\\.gradle\\jdks\\daemon\\8.4\\com.example.coletalixo.app-main-34:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Super PC\\.gradle\\jdks\\daemon\\8.4\\com.example.coletalixo.app-debug-32:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Super PC\\.gradle\\jdks\\daemon\\8.4\\com.example.coletalixo.app-main-34:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Super PC\\.gradle\\jdks\\daemon\\8.4\\com.example.coletalixo.app-debug-32:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Super PC\\.gradle\\jdks\\daemon\\8.4\\com.example.coletalixo.app-main-34:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Super PC\\.gradle\\jdks\\daemon\\8.4\\com.example.coletalixo.app-debug-32:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Super PC\\.gradle\\jdks\\daemon\\8.4\\com.example.coletalixo.app-main-34:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Super PC\\.gradle\\jdks\\daemon\\8.4\\com.example.coletalixo.app-debug-32:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Super PC\\.gradle\\jdks\\daemon\\8.4\\com.example.coletalixo.app-main-34:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Super PC\\.gradle\\jdks\\daemon\\8.4\\com.example.coletalixo.app-debug-32:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Super PC\\.gradle\\jdks\\daemon\\8.4\\com.example.coletalixo.app-main-34:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Super PC\\.gradle\\jdks\\daemon\\8.4\\com.example.coletalixo.app-debug-32:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Super PC\\.gradle\\jdks\\daemon\\8.4\\com.example.coletalixo.app-main-34:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Super PC\\.gradle\\jdks\\daemon\\8.4\\com.example.coletalixo.app-debug-32:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Super PC\\.gradle\\jdks\\daemon\\8.4\\com.example.coletalixo.app-main-34:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Super PC\\.gradle\\jdks\\daemon\\8.4\\com.example.coletalixo.app-debug-32:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Super PC\\.gradle\\jdks\\daemon\\8.4\\com.example.coletalixo.app-main-34:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Super PC\\.gradle\\jdks\\daemon\\8.4\\com.example.coletalixo.app-debug-32:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Super PC\\.gradle\\jdks\\daemon\\8.4\\com.example.coletalixo.app-main-34:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Super PC\\.gradle\\jdks\\daemon\\8.4\\com.example.coletalixo.app-debug-32:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Super PC\\.gradle\\jdks\\daemon\\8.4\\com.example.coletalixo.app-main-34:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    }
+]

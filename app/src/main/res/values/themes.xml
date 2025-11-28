@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.ColetaLixo" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+
+        <!-- Cores principais -->
+        <item name="colorPrimary">@color/primaryGreen</item>
+        <item name="colorPrimaryDark">@color/primaryGreenDark</item>
+        <item name="colorAccent">@color/accentGreen</item>
+
+        <!-- Cores de fundo -->
+        <item name="materialButtonStyle">@color/buttonGreen</item>
+
+    </style>
+
+    <style name="GrreenButton" parent="Widget.MaterialComponents.Button">
+        <item name="android:backgroundTint">@color/buttonGreen</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+
+</resources>

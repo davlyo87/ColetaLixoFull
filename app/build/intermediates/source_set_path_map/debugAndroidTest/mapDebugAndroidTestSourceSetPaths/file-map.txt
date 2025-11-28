@@ -1,0 +1,4 @@
+com.example.coletalixo.test.app-androidTest-0 F:\Users\Super PC\Documents\Projetos Android\ColetaLixoFull\app\build\generated\res\resValues\androidTest\debug
+com.example.coletalixo.test.app-mergeDebugAndroidTestResources-1 F:\Users\Super PC\Documents\Projetos Android\ColetaLixoFull\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.coletalixo.test.app-mergeDebugAndroidTestResources-2 F:\Users\Super PC\Documents\Projetos Android\ColetaLixoFull\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.coletalixo.test.app-debugAndroidTest-3 F:\Users\Super PC\Documents\Projetos Android\ColetaLixoFull\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accentGreen">#A5D6A7</color>
+    <color name="backgroundLight">#FFFFFF</color>
+    <color name="buttonGreen">#43A047</color>
+    <color name="buttonGreenPressed">#2E7D32</color>
+    <color name="cardLight">#F1F8E9</color>
+    <color name="ic_launcher_background">#F6F6F6</color>
+    <color name="primaryGreen">#2E7D32</color>
+    <color name="primaryGreenDark">#1B5E20</color>
+    <color name="textPrimaryDark">#1B1B1B</color>
+    <color name="textSecondaryDark">#4F4F4F</color>
+    <string name="app_name">ColetaLixo</string>
+    <string name="collected_count">Lixo coletado: %1$d</string>
+    <style name="GrreenButton" parent="Widget.MaterialComponents.Button">
+        <item name="android:backgroundTint">@color/buttonGreen</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+    <style name="Theme.ColetaLixo" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+
+        
+        <item name="colorPrimary">@color/primaryGreen</item>
+        <item name="colorPrimaryDark">@color/primaryGreenDark</item>
+        <item name="colorAccent">@color/accentGreen</item>
+
+        
+        <item name="materialButtonStyle">@color/buttonGreen</item>
+
+    </style>
+</resources>

@@ -1,0 +1,35 @@
+com.example.coletalixo.app-lifecycle-viewmodel-savedstate-2.6.1-0 C:\Users\Super PC\.gradle\jdks\caches\transforms-3\1d354421676b97ea68ea4a616d4f4bc5\transformed\lifecycle-viewmodel-savedstate-2.6.1\res
+com.example.coletalixo.app-emoji2-views-helper-1.2.0-1 C:\Users\Super PC\.gradle\jdks\caches\transforms-3\1e3f2b08e095850cca83223495180588\transformed\emoji2-views-helper-1.2.0\res
+com.example.coletalixo.app-emoji2-1.2.0-2 C:\Users\Super PC\.gradle\jdks\caches\transforms-3\405e7e0e44d3acf38768edc7198bba28\transformed\emoji2-1.2.0\res
+com.example.coletalixo.app-profileinstaller-1.3.0-3 C:\Users\Super PC\.gradle\jdks\caches\transforms-3\4a323d60e9ba7150f3e6116dcc4c94d2\transformed\profileinstaller-1.3.0\res
+com.example.coletalixo.app-viewpager2-1.0.0-4 C:\Users\Super PC\.gradle\jdks\caches\transforms-3\4b4b52350fb0c2d264354c74fcb94062\transformed\viewpager2-1.0.0\res
+com.example.coletalixo.app-savedstate-1.2.1-5 C:\Users\Super PC\.gradle\jdks\caches\transforms-3\5a5b2b1b94eedda6a54a001947c62f2e\transformed\savedstate-1.2.1\res
+com.example.coletalixo.app-core-ktx-1.9.0-6 C:\Users\Super PC\.gradle\jdks\caches\transforms-3\70676664acfb6fadd47e3d330c59a7be\transformed\core-ktx-1.9.0\res
+com.example.coletalixo.app-lifecycle-livedata-core-2.6.1-7 C:\Users\Super PC\.gradle\jdks\caches\transforms-3\77f44aac528909601d9e60993393a3e9\transformed\lifecycle-livedata-core-2.6.1\res
+com.example.coletalixo.app-material-1.11.0-8 C:\Users\Super PC\.gradle\jdks\caches\transforms-3\7d1434029e302b9912432745b81a72eb\transformed\material-1.11.0\res
+com.example.coletalixo.app-transition-1.2.0-9 C:\Users\Super PC\.gradle\jdks\caches\transforms-3\90c80be1b06b25e8a776e51a17acd778\transformed\transition-1.2.0\res
+com.example.coletalixo.app-lifecycle-process-2.6.1-10 C:\Users\Super PC\.gradle\jdks\caches\transforms-3\9966efbea77f91f9770b8be586c507d3\transformed\lifecycle-process-2.6.1\res
+com.example.coletalixo.app-fragment-1.3.6-11 C:\Users\Super PC\.gradle\jdks\caches\transforms-3\a713415b0a695a085f01450535f1c517\transformed\fragment-1.3.6\res
+com.example.coletalixo.app-constraintlayout-2.0.1-12 C:\Users\Super PC\.gradle\jdks\caches\transforms-3\a7185d588fadcd0d565f964afe507628\transformed\constraintlayout-2.0.1\res
+com.example.coletalixo.app-cardview-1.0.0-13 C:\Users\Super PC\.gradle\jdks\caches\transforms-3\a9530ca4d6090c6b6e24e4a51c21ee67\transformed\cardview-1.0.0\res
+com.example.coletalixo.app-core-runtime-2.2.0-14 C:\Users\Super PC\.gradle\jdks\caches\transforms-3\b117a958d19edc8fc6abd89fcda6946f\transformed\core-runtime-2.2.0\res
+com.example.coletalixo.app-activity-1.8.0-15 C:\Users\Super PC\.gradle\jdks\caches\transforms-3\b70e0aebf22d1d359ef9eec6ff8b41fd\transformed\activity-1.8.0\res
+com.example.coletalixo.app-lifecycle-runtime-2.6.1-16 C:\Users\Super PC\.gradle\jdks\caches\transforms-3\c6c00e161e8633360510bf14c4d483cd\transformed\lifecycle-runtime-2.6.1\res
+com.example.coletalixo.app-lifecycle-livedata-2.6.1-17 C:\Users\Super PC\.gradle\jdks\caches\transforms-3\c76dea7a8547bd6d100bfda56d32ab04\transformed\lifecycle-livedata-2.6.1\res
+com.example.coletalixo.app-appcompat-resources-1.6.1-18 C:\Users\Super PC\.gradle\jdks\caches\transforms-3\c8248b0c52bcd5b159004046a2000928\transformed\appcompat-resources-1.6.1\res
+com.example.coletalixo.app-core-1.9.0-19 C:\Users\Super PC\.gradle\jdks\caches\transforms-3\d6dabe9d537d5dfad45849ddc38674d9\transformed\core-1.9.0\res
+com.example.coletalixo.app-lifecycle-viewmodel-2.6.1-20 C:\Users\Super PC\.gradle\jdks\caches\transforms-3\d8a4d657c5225f7093ee1245b2621ac6\transformed\lifecycle-viewmodel-2.6.1\res
+com.example.coletalixo.app-drawerlayout-1.1.1-21 C:\Users\Super PC\.gradle\jdks\caches\transforms-3\d95db5b5546155fc19720e445350624a\transformed\drawerlayout-1.1.1\res
+com.example.coletalixo.app-startup-runtime-1.1.1-22 C:\Users\Super PC\.gradle\jdks\caches\transforms-3\dbafdca55812a34066dacb1c5edfc9f7\transformed\startup-runtime-1.1.1\res
+com.example.coletalixo.app-appcompat-1.6.1-23 C:\Users\Super PC\.gradle\jdks\caches\transforms-3\de3b49d91a1dfd98f8dcae2b276e3a61\transformed\appcompat-1.6.1\res
+com.example.coletalixo.app-annotation-experimental-1.3.0-24 C:\Users\Super PC\.gradle\jdks\caches\transforms-3\e961aa27741c8f151e4aa0777b4cc5d2\transformed\annotation-experimental-1.3.0\res
+com.example.coletalixo.app-coordinatorlayout-1.1.0-25 C:\Users\Super PC\.gradle\jdks\caches\transforms-3\ed4595ce33a336bd5163e461883ee07e\transformed\coordinatorlayout-1.1.0\res
+com.example.coletalixo.app-customview-poolingcontainer-1.0.0-26 C:\Users\Super PC\.gradle\jdks\caches\transforms-3\f278b3fb815c5ef60d9cc639b7c7c8d3\transformed\customview-poolingcontainer-1.0.0\res
+com.example.coletalixo.app-recyclerview-1.3.0-27 C:\Users\Super PC\.gradle\jdks\caches\transforms-3\f6f2df1d0ce0d7484dbaee4cfe8ac343\transformed\recyclerview-1.3.0\res
+com.example.coletalixo.app-pngs-28 F:\Users\Super PC\Documents\Projetos Android\ColetaLixoFull\app\build\generated\res\pngs\debug
+com.example.coletalixo.app-resValues-29 F:\Users\Super PC\Documents\Projetos Android\ColetaLixoFull\app\build\generated\res\resValues\debug
+com.example.coletalixo.app-packageDebugResources-30 F:\Users\Super PC\Documents\Projetos Android\ColetaLixoFull\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.coletalixo.app-packageDebugResources-31 F:\Users\Super PC\Documents\Projetos Android\ColetaLixoFull\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.coletalixo.app-debug-32 F:\Users\Super PC\Documents\Projetos Android\ColetaLixoFull\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.coletalixo.app-debug-33 F:\Users\Super PC\Documents\Projetos Android\ColetaLixoFull\app\src\debug\res
+com.example.coletalixo.app-main-34 F:\Users\Super PC\Documents\Projetos Android\ColetaLixoFull\app\src\main\res

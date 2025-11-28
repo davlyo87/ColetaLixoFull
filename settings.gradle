@@ -1,0 +1,2 @@
+rootProject.name='ColetaLixo'
+include ':app'

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_recycle">
+
+
+    <TextView
+        android:id="@+id/tvCount"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ColetaLixo"
+        android:textSize="22sp"
+        android:textColor="@color/primaryGreen"/>
+
+    <TextView
+        android:id="@+id/tvInstructions"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Balance o telefone para registrar um lixo coletado (Acelerômetro) ou use a (Câmera)."
+        android:layout_marginBottom="14dp"
+        android:textColor="@color/backgroundLight"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:background="@color/primaryGreenDark"/>
+
+    <Button
+        android:id="@+id/btnReset"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Zerar Dados"
+        android:textColor="#E7EAEA" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rvTrash"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="#80FFFFFF">
+
+    </androidx.recyclerview.widget.RecyclerView>
+
+    <ImageView
+        android:id="@+id/imgPhoto"
+        android:layout_width="132dp"
+        android:layout_height="155dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="15dp"
+        android:background="#33000000"
+        android:scaleType="centerCrop"
+        android:src="@drawable/camera_app_coleta_lixo" />
+
+    <Button
+        android:id="@+id/btnCamera"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="12dp"
+        android:background="@color/buttonGreen"
+        android:text="Abrir Câmera"
+        android:textColor="@color/backgroundLight" />
+
+</LinearLayout>

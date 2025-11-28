@@ -1,0 +1,31 @@
+R_DEF: Internal format may change without notice
+local
+color accentGreen
+color backgroundLight
+color buttonGreen
+color buttonGreenPressed
+color cardLight
+color ic_launcher_background
+color primaryGreen
+color primaryGreenDark
+color textPrimaryDark
+color textSecondaryDark
+drawable bg_recycle
+drawable camera_app_coleta_lixo
+drawable ic_launcher_background
+id btnCamera
+id btnReset
+id imgPhoto
+id rvTrash
+id tvCount
+id tvInstructions
+id tvTrashText
+layout activity_main
+layout item_trash
+mipmap ic_launcher
+mipmap ic_launcher_foreground
+mipmap ic_launcher_round
+string app_name
+string collected_count
+style GrreenButton
+style Theme.ColetaLixo

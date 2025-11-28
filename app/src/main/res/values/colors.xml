@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Cores principais do tema ambiental -->
+    <color name="primaryGreen">#2E7D32</color>        <!-- Verde folha -->
+    <color name="primaryGreenDark">#1B5E20</color>    <!-- Verde floresta -->
+    <color name="accentGreen">#A5D6A7</color>         <!-- Verde claro suave -->
+
+    <!-- Fundo e cartões -->
+    <color name="backgroundLight">#FFFFFF</color>
+    <color name="cardLight">#F1F8E9</color>           <!-- Verde bem clarinho -->
+
+    <!-- Cores de texto -->
+    <color name="textPrimaryDark">#1B1B1B</color>
+    <color name="textSecondaryDark">#4F4F4F</color>
+
+     <!-- Botões -->
+    <color name="buttonGreen">#43A047</color>
+    <color name="buttonGreenPressed">#2E7D32</color>
+
+</resources>
